@@ -1,2 +1,4 @@
 I have done waching the 6th video
 its very interesting but hard to understand
+I install the git to write the git command.
+I used git commands to follow the version control for a repo.
